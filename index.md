@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
 [GtX 2021 BHT Prediction](/https://github.com/tanorak00/Heatwave_GtX_2021_Geothermal_Datathon)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Analytics Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
