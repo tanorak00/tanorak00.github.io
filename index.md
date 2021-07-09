@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[GtX 2021 BHT Prediction](https://github.com/tanorak00/Heatwave_GtX_2021_Geothermal_Datathon)
+[GtX 2021 BHT Prediction](https://tanorak00.github.io/Heatwave_GtX_2021_Geothermal_Datathon/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
